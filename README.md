@@ -10,7 +10,7 @@
   <img alt="version" src=https://img.shields.io/badge/version-v1.0.0-orange">
 </p>
 
-### 自注：https://www.bilibili.com/video/BV1H64y1M7oh?p=44
+### 自注，b站有很多关于讲源码的：https://www.bilibili.com/video/BV1H64y1M7oh?p=44
 
 # 1. 前言
 
